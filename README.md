@@ -1,4 +1,6 @@
-Website of [https://github.com/ParsaHejabi/TweetCleaner](TweetCleaner) bot.
+# TweetCleaner bot website built with React
+
+Website of [TweetCleaner](https://github.com/ParsaHejabi/TweetCleaner) bot.
 
 ## Available Scripts
 
