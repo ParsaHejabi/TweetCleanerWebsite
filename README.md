@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website of [https://github.com/ParsaHejabi/TweetCleaner](TweetCleaner) bot.
 
 ## Available Scripts
 
