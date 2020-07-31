@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TweetCleanerWebsite/static/css/main.bf788e51.chunk.css",
-    "main.js": "/TweetCleanerWebsite/static/js/main.4d5b39b0.chunk.js",
-    "main.js.map": "/TweetCleanerWebsite/static/js/main.4d5b39b0.chunk.js.map",
+    "main.css": "/TweetCleanerWebsite/static/css/main.4e969b92.chunk.css",
+    "main.js": "/TweetCleanerWebsite/static/js/main.41ac8faa.chunk.js",
+    "main.js.map": "/TweetCleanerWebsite/static/js/main.41ac8faa.chunk.js.map",
     "runtime-main.js": "/TweetCleanerWebsite/static/js/runtime-main.c602df39.js",
     "runtime-main.js.map": "/TweetCleanerWebsite/static/js/runtime-main.c602df39.js.map",
     "static/js/2.d8143121.chunk.js": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js",
     "static/js/2.d8143121.chunk.js.map": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js.map",
     "index.html": "/TweetCleanerWebsite/index.html",
-    "precache-manifest.6ed3c28942255a82c282c06560bcabea.js": "/TweetCleanerWebsite/precache-manifest.6ed3c28942255a82c282c06560bcabea.js",
+    "precache-manifest.d60972268ca20ad2a9a848008d80830c.js": "/TweetCleanerWebsite/precache-manifest.d60972268ca20ad2a9a848008d80830c.js",
     "service-worker.js": "/TweetCleanerWebsite/service-worker.js",
-    "static/css/main.bf788e51.chunk.css.map": "/TweetCleanerWebsite/static/css/main.bf788e51.chunk.css.map",
+    "static/css/main.4e969b92.chunk.css.map": "/TweetCleanerWebsite/static/css/main.4e969b92.chunk.css.map",
     "static/js/2.d8143121.chunk.js.LICENSE.txt": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/TweetCleanerWebsite/static/media/Logo.e86324af.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c602df39.js",
     "static/js/2.d8143121.chunk.js",
-    "static/css/main.bf788e51.chunk.css",
-    "static/js/main.4d5b39b0.chunk.js"
+    "static/css/main.4e969b92.chunk.css",
+    "static/js/main.41ac8faa.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a6a6c141c787c4f59fb5a9441b23c75",
+    "revision": "e61c34c5540d4428f8e3f29cecc702b6",
     "url": "/TweetCleanerWebsite/index.html"
   },
   {
-    "revision": "b88f71189e23757a684c",
-    "url": "/TweetCleanerWebsite/static/css/main.bf788e51.chunk.css"
+    "revision": "6699d62db8af2ba18c78",
+    "url": "/TweetCleanerWebsite/static/css/main.4e969b92.chunk.css"
   },
   {
     "revision": "1c539c709b3aa24908dc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b88f71189e23757a684c",
-    "url": "/TweetCleanerWebsite/static/js/main.4d5b39b0.chunk.js"
+    "revision": "6699d62db8af2ba18c78",
+    "url": "/TweetCleanerWebsite/static/js/main.41ac8faa.chunk.js"
   },
   {
     "revision": "ff8f1b1b40e1597f68b0",
