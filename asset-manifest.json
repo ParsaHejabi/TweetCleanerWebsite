@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tweetcleanerwebsite/static/css/main.4e969b92.chunk.css",
-    "main.js": "/tweetcleanerwebsite/static/js/main.1d5a8837.chunk.js",
-    "main.js.map": "/tweetcleanerwebsite/static/js/main.1d5a8837.chunk.js.map",
-    "runtime-main.js": "/tweetcleanerwebsite/static/js/runtime-main.2e26d26a.js",
-    "runtime-main.js.map": "/tweetcleanerwebsite/static/js/runtime-main.2e26d26a.js.map",
-    "static/js/2.8cd647ca.chunk.js": "/tweetcleanerwebsite/static/js/2.8cd647ca.chunk.js",
-    "static/js/2.8cd647ca.chunk.js.map": "/tweetcleanerwebsite/static/js/2.8cd647ca.chunk.js.map",
-    "index.html": "/tweetcleanerwebsite/index.html",
-    "precache-manifest.9d6f8dc4300ad827d22964fd592a56f8.js": "/tweetcleanerwebsite/precache-manifest.9d6f8dc4300ad827d22964fd592a56f8.js",
-    "service-worker.js": "/tweetcleanerwebsite/service-worker.js",
-    "static/css/main.4e969b92.chunk.css.map": "/tweetcleanerwebsite/static/css/main.4e969b92.chunk.css.map",
-    "static/js/2.8cd647ca.chunk.js.LICENSE.txt": "/tweetcleanerwebsite/static/js/2.8cd647ca.chunk.js.LICENSE.txt",
-    "static/media/Logo.png": "/tweetcleanerwebsite/static/media/Logo.e86324af.png"
+    "main.css": "/TweetCleanerWebsite/static/css/main.4e969b92.chunk.css",
+    "main.js": "/TweetCleanerWebsite/static/js/main.15395be6.chunk.js",
+    "main.js.map": "/TweetCleanerWebsite/static/js/main.15395be6.chunk.js.map",
+    "runtime-main.js": "/TweetCleanerWebsite/static/js/runtime-main.c602df39.js",
+    "runtime-main.js.map": "/TweetCleanerWebsite/static/js/runtime-main.c602df39.js.map",
+    "static/js/2.d8143121.chunk.js": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js",
+    "static/js/2.d8143121.chunk.js.map": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js.map",
+    "index.html": "/TweetCleanerWebsite/index.html",
+    "precache-manifest.df6ce7ac7148aa0ca931ac352619f7d1.js": "/TweetCleanerWebsite/precache-manifest.df6ce7ac7148aa0ca931ac352619f7d1.js",
+    "service-worker.js": "/TweetCleanerWebsite/service-worker.js",
+    "static/css/main.4e969b92.chunk.css.map": "/TweetCleanerWebsite/static/css/main.4e969b92.chunk.css.map",
+    "static/js/2.d8143121.chunk.js.LICENSE.txt": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/TweetCleanerWebsite/static/media/Logo.e86324af.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e26d26a.js",
-    "static/js/2.8cd647ca.chunk.js",
+    "static/js/runtime-main.c602df39.js",
+    "static/js/2.d8143121.chunk.js",
     "static/css/main.4e969b92.chunk.css",
-    "static/js/main.1d5a8837.chunk.js"
+    "static/js/main.15395be6.chunk.js"
   ]
 }
