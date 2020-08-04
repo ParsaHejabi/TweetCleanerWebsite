@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TweetCleanerWebsite/static/css/main.4e969b92.chunk.css",
-    "main.js": "/TweetCleanerWebsite/static/js/main.15395be6.chunk.js",
-    "main.js.map": "/TweetCleanerWebsite/static/js/main.15395be6.chunk.js.map",
+    "main.css": "/TweetCleanerWebsite/static/css/main.e15eee60.chunk.css",
+    "main.js": "/TweetCleanerWebsite/static/js/main.b46215d6.chunk.js",
+    "main.js.map": "/TweetCleanerWebsite/static/js/main.b46215d6.chunk.js.map",
     "runtime-main.js": "/TweetCleanerWebsite/static/js/runtime-main.c602df39.js",
     "runtime-main.js.map": "/TweetCleanerWebsite/static/js/runtime-main.c602df39.js.map",
-    "static/js/2.d8143121.chunk.js": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js",
-    "static/js/2.d8143121.chunk.js.map": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js.map",
+    "static/js/2.a103a026.chunk.js": "/TweetCleanerWebsite/static/js/2.a103a026.chunk.js",
+    "static/js/2.a103a026.chunk.js.map": "/TweetCleanerWebsite/static/js/2.a103a026.chunk.js.map",
     "index.html": "/TweetCleanerWebsite/index.html",
-    "precache-manifest.df6ce7ac7148aa0ca931ac352619f7d1.js": "/TweetCleanerWebsite/precache-manifest.df6ce7ac7148aa0ca931ac352619f7d1.js",
+    "precache-manifest.75127b5205ce512ae0528a328ad9e0e2.js": "/TweetCleanerWebsite/precache-manifest.75127b5205ce512ae0528a328ad9e0e2.js",
     "service-worker.js": "/TweetCleanerWebsite/service-worker.js",
-    "static/css/main.4e969b92.chunk.css.map": "/TweetCleanerWebsite/static/css/main.4e969b92.chunk.css.map",
-    "static/js/2.d8143121.chunk.js.LICENSE.txt": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js.LICENSE.txt",
+    "static/css/main.e15eee60.chunk.css.map": "/TweetCleanerWebsite/static/css/main.e15eee60.chunk.css.map",
+    "static/js/2.a103a026.chunk.js.LICENSE.txt": "/TweetCleanerWebsite/static/js/2.a103a026.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/TweetCleanerWebsite/static/media/Logo.e86324af.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c602df39.js",
-    "static/js/2.d8143121.chunk.js",
-    "static/css/main.4e969b92.chunk.css",
-    "static/js/main.15395be6.chunk.js"
+    "static/js/2.a103a026.chunk.js",
+    "static/css/main.e15eee60.chunk.css",
+    "static/js/main.b46215d6.chunk.js"
   ]
 }

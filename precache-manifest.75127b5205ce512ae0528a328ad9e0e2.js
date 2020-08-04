@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31dc7d1ed8bf0e22beff49d00a2df0e6",
+    "revision": "6e5dc2d3eee99a654b20e0847302c63c",
     "url": "/TweetCleanerWebsite/index.html"
   },
   {
-    "revision": "2f02701aaae79055b4f3",
-    "url": "/TweetCleanerWebsite/static/css/main.4e969b92.chunk.css"
+    "revision": "970978b0bfa2f8b091fa",
+    "url": "/TweetCleanerWebsite/static/css/main.e15eee60.chunk.css"
   },
   {
-    "revision": "1c539c709b3aa24908dc",
-    "url": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js"
+    "revision": "c8566e3d03cb361e189a",
+    "url": "/TweetCleanerWebsite/static/js/2.a103a026.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/TweetCleanerWebsite/static/js/2.d8143121.chunk.js.LICENSE.txt"
+    "url": "/TweetCleanerWebsite/static/js/2.a103a026.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f02701aaae79055b4f3",
-    "url": "/TweetCleanerWebsite/static/js/main.15395be6.chunk.js"
+    "revision": "970978b0bfa2f8b091fa",
+    "url": "/TweetCleanerWebsite/static/js/main.b46215d6.chunk.js"
   },
   {
     "revision": "ff8f1b1b40e1597f68b0",
