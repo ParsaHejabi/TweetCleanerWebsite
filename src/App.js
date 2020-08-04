@@ -82,7 +82,7 @@ function App() {
           ) : (
             <Menu theme="dark" mode="horizontal" defaultSelectedKeys={["1"]}>
               <Menu.Item key="1">
-                <Link to="/">Home</Link>
+                <Link to="/TweetCleanerWebsite">Home</Link>
               </Menu.Item>
               <Menu.Item key="2">
                 <Link to="/profile">Profile</Link>
@@ -101,7 +101,7 @@ function App() {
                   <Profile user={user} />
                 </Route>
               )}
-              <Route path="/">
+              <Route path="/TweetCleanerWebsite">
                 <Home />
               </Route>
             </Switch>
