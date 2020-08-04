@@ -19,18 +19,18 @@ function Home() {
       <Title>Welcome to TweetCleaner</Title>
       <Paragraph>
         This app helps Twitter users to delete a batch of their tweets very
-        fast. You have multiple options to clean your tweets such as:
+        fast. You have multiple options to clean your tweets, such as:
       </Paragraph>
       <Paragraph>
         <ul>
           <li>
-            Choosing a date to delete all the tweets which are created before
-            that date.
+            Choosing a date or period (For example, 30 days) to delete all the
+            created tweets before that date.
           </li>
           <li>
             Filter your tweets based on time, content, or the words in the
             tweet, number of likes, number of comments, etc. Once you are done
-            with filtering them you can delete the filtered tweets.
+            with filtering them, you can delete the filtered tweets.
           </li>
         </ul>
       </Paragraph>
