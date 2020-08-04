@@ -63,7 +63,7 @@ function App() {
       <Layout className="layout" style={{ height: "100vh" }}>
         <Header>
           <div className="logo">
-            <Link to="/tweetcleanerwebsite">
+            <Link to="/TweetCleanerWebsite">
               <img src={logo} alt="Website Logo" style={{ width: "50px" }} />
               <Text strong style={{ marginLeft: "8px" }}>
                 TweetCleaner
@@ -73,7 +73,7 @@ function App() {
           {!authenticated ? (
             <Menu theme="dark" mode="horizontal" defaultSelectedKeys={["1"]}>
               <Menu.Item key="1">
-                <Link to="/tweetcleanerwebsite">Home</Link>
+                <Link to="/TweetCleanerWebsite">Home</Link>
               </Menu.Item>
               <Menu.Item key="2">
                 <a href={`${backEndURL}/auth/twitter`}>Login</a>
